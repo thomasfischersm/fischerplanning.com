@@ -1,0 +1,73 @@
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	list-style-image: url(images/bullet.gif);
+}
+.getinfo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.subhead {
+	font-weight: bold;
+	color: #0099C5;
+}
+
+body {
+	background-color: #909093;
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	background: url(images/bg-01.gif);
+}
+a:link {
+	color: #0099C5;
+	text-decoration: underline;
+}
+a:visited {
+	color: #00668E;
+	text-decoration: underline;
+}
+a:hover {
+	color: #0099C5;
+	text-decoration: none;
+}
+a:active {
+	color: #5DD0FF;
+	text-decoration: underline;
+}
+.nav {
+	font-size: 9px;
+	color: #838488;
+}
+.nav a:link {
+	color: #838488;
+	text-decoration: underline;
+}
+.nav a:visited {
+	color: #B1B2B3;
+	text-decoration: underline;
+}
+.nav a:hover {
+	color: #0099C5;
+	text-decoration: none;
+}
+.nav a:active {
+	color: #0099C5;
+	text-decoration: underline;
+}
+.nav-bar {
+	font-size: 9px;
+	color: #C8C8CA;
+}
+.nav-selected {
+	font-size: 9px;
+	color: #0099C5;
+	font-weight: bold;
+}
+.headline {
+	font-size: 18px;
+	color: #0099C5;
+}

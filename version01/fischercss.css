@@ -1,0 +1,33 @@
+BODY
+{
+    SCROLLBAR-FACE-COLOR: #E2E8F4;
+    SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;
+    SCROLLBAR-SHADOW-COLOR: #E9E9E9;
+    SCROLLBAR-3DLIGHT-COLOR: #d1d7dc;
+    SCROLLBAR-ARROW-COLOR: #0259A9;
+    SCROLLBAR-TRACK-COLOR: #efefef;
+    SCROLLBAR-DARKSHADOW-COLOR: #666666;
+}
+a:link{
+	text-decoration: underline; color: #005AAD; font-family: Arial; font-size: 10pt
+}
+a:hover{
+	text-decoration: underline; color: #005AAD; font-family: Arial; font-size: 10pt
+}
+a:active{
+	text-decoration: underline; color: #005AAD; font-family: Arial; font-size: 10pt
+}
+a:visited{
+	text-decoration: underline; color: #005AAD; font-family: Arial; font-size: 10pt
+}
+.MainText{
+	FONT-SIZE: 10pt; 
+	COLOR: #000000; 
+	FONT-FAMILY: tahoma,arial,helvetica
+}
+.table{
+	font-size: 8pt;
+	font-weight: bold;
+	color: #000000;
+	font-family: tahoma,arial,helvetica;
+}
